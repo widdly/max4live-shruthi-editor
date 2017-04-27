@@ -1,7 +1,7 @@
 maxstuff
 ========
 
-Here is a max for live MI Shrithi Editor I customized for the Yellow Magic edition..
+Here is a max for live MI Shruthi Editor I customized for the Yellow Magic edition..
 
 Read more about it here...
 
